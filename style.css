@@ -1,0 +1,15 @@
+header {
+	background-color: #cb8d50;
+	color: #692200;
+	padding: 2rem;
+}
+
+header h1 {
+	text-align: center;
+	display: flex;
+	margin-right: 1.5rem;
+	font-size: 3.5rem;
+	border: 5px ridge #2d1a00;
+	border-radius: 10px;
+}
+
