@@ -1,15 +1,18 @@
-header {
-	background-color: #cb8d50;
-	color: #692200;
-	padding: 2rem;
+body {
+	background-image: url("images/hex3.jpg");
+	background-attachment: fixed;
+	color: #ffffff;
 }
-
 header h1 {
+	background-color: rgba(255, 255, 255, 0.2);
+	color: #1a658a;
+	padding: 2rem;
 	text-align: center;
 	display: flex;
-	margin-right: 1.5rem;
+	margin-left: 5rem;
+	margin-right: 5rem;
 	font-size: 3.5rem;
-	border: 5px ridge #2d1a00;
-	border-radius: 10px;
+	border: 10px outset #636363;
+	border-radius: 100px;
 }
 
