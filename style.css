@@ -15,4 +15,8 @@ header h1 {
 	border: 10px outset #636363;
 	border-radius: 100px;
 }
-
+.visual{
+	display: flex;
+	width: 300px;
+	height: auto;
+}
