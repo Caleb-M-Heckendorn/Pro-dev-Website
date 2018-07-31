@@ -9,8 +9,7 @@ header h1 {
 	padding: 2rem;
 	text-align: center;
 	display: block;
-	margin-left: 5rem;
-	margin-right: 5rem;
+	margin-left: auto;
 	font-size: 3.5rem;
 	border: 10px outset #636363;
 	border-radius: 100px;
